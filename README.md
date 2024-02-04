@@ -24,4 +24,4 @@ Results and Visualizations
 Real World Relevance
 
 
-Thank you for viewing!
+*Thank you for viewing!*
