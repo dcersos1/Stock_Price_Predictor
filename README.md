@@ -9,7 +9,7 @@ For this project, I sought to work on a problem with strong real-world implicati
 
 The project in its entirety can be viewed in the .ipynb file inside this repository. To run yourself, you must be able to run Jupyter Notebooks while importing and loading the necessary libraries and functions as detailed in the project.
 
-**Project Breakdown** 
+**Project Breakdown:** 
 
 Contextualization
 
