@@ -1,5 +1,5 @@
 # Stock_Price_Predictor
-Dan Cersosimo | Data Scientist | LSTM Neural Networks, ARIMA, and ETS
+Dan Cersosimo | Data Scientist | LSTM Neural Networks | ARIMA | ETS
 
 **Overview:**
 
