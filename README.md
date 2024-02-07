@@ -17,7 +17,7 @@ Data Acquisition and Preprocessing
 
 Exploratory Data Analysis
 
-Modeling and Deployment 
+Modeling and Evalutation
 
 Results and Visualizations 
 
